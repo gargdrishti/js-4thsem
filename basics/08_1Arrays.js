@@ -11,14 +11,15 @@ const myArr2 = new Array(1,2,3,4)
 // myArr.pop()
 
 // myArr.unshift(9)
-// myArr.shift()
+// myArr.shift() //koyi parameter nhi dete shift mein
 
-// console.log(myArr.includes(9));
-// console.log(myArr.indexOf(3));
+// console.log(myArr.includes(9)); //output true or false
+// console.log(myArr.indexOf(3)); //gives the index of elemenet given
 
 // const newArr = myArr.join()
 // console.log(myArr);
-// console.log(typeof newArr);
+//console.log(newArr);
+// console.log(typeof newArr); //output:string
 
 //slice,splice
 
